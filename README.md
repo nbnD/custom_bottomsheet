@@ -1,16 +1,9 @@
 # custom_bottomsheet
 
-A new Flutter project.
+Creating own bottomsheet design
 
-## Getting Started
+## Final Output
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/7b7bdc24-c14f-49fa-bc0c-9edf651f04e3" alt="Description" width="400" height="auto" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
